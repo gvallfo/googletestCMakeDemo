@@ -6,3 +6,5 @@ add_executable(${PROJECT_NAME}
   sample1.cc
 )
 
+add_subdirectory(my-app-test)
+
